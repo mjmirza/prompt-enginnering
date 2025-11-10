@@ -1,62 +1,47 @@
 # Prompt Patterns and Templates
 
-This directory contains reusable prompt templates and structures for common use cases.
+This directory contains reusable prompt templates and structures organized by category. Each pattern provides a structured approach to common prompting tasks with examples and best practices.
 
-## Pattern Categories
+## Directory Structure
 
-### Question-Answering Patterns
-- Factual questions
-- Analytical questions
-- Comparative questions
-- Explanatory questions
+```
+03-patterns/
+├── visual-generation/      # Patterns for generating images and visual content
+├── code-generation/        # Patterns for code creation and review
+├── content-writing/        # Patterns for written content creation
+├── analysis/               # Patterns for data and text analysis
+├── reasoning/              # Patterns for logical reasoning and problem-solving
+├── conversation/           # Patterns for interactive dialogues and teaching
+└── problem-solving/        # Patterns for debugging and troubleshooting
+```
 
-### Code Generation Patterns
-- Function/method creation
-- Code refactoring
-- Bug fixing
-- Code review and optimization
-- Documentation generation
+## Available Pattern Templates
 
-### Writing Patterns
-- Content creation
-- Summarization
-- Paraphrasing and rewriting
-- Tone and style adjustment
-- Creative writing
+### Visual Generation
+- **[Minimalist Conceptual Illustrations](visual-generation/minimalist-conceptual-illustrations.md)** - Hand-drawn sketch aesthetic with infographic elements
+- **[Technical Diagrams](visual-generation/technical-diagrams.md)** - Flowcharts, architecture diagrams, and system visualizations
 
-### Analysis Patterns
-- Data analysis and interpretation
-- Text analysis and classification
-- Sentiment analysis
-- Comparative analysis
+### Code Generation
+- **[Function Generator](code-generation/function-generator.md)** - Create well-documented, tested functions
+- **[Code Review](code-generation/code-review.md)** - Comprehensive code review framework
 
-### Problem-Solving Patterns
-- Debugging and troubleshooting
-- Decision-making frameworks
-- Root cause analysis
-- Strategic planning
+### Content Writing
+- **[Structured Article](content-writing/structured-article.md)** - Blog posts, tutorials, and long-form content
+- **[Email Crafting](content-writing/email-crafting.md)** - Professional emails across different contexts
 
-### Reasoning Patterns
-- Logical reasoning
-- Causal reasoning
-- Analogical reasoning
-- Hypothetical scenarios
+### Analysis
+- **[Data Interpretation](analysis/data-interpretation.md)** - Extract insights from data systematically
+- **[Comparative Analysis](analysis/comparative-analysis.md)** - Compare options and make informed decisions
 
-### Conversation Patterns
-- Interactive dialogues
-- Interview simulations
-- Teaching and tutoring
-- Brainstorming sessions
+### Reasoning
+- **[Chain-of-Thought Reasoning](reasoning/chain-of-thought-reasoning.md)** - Step-by-step problem-solving
+- **[Few-Shot Learning](reasoning/few-shot-learning.md)** - Learning from examples
 
-### Visual Generation Patterns
-- Minimalist conceptual illustrations (see `minimalist-conceptual-illustrations.md`)
-- Infographic designs
-- Diagram generation
-- Style-specific image prompts
+### Conversation
+- **[Socratic Teaching](conversation/socratic-teaching.md)** - Question-driven learning and discovery
 
-## Available Templates
-
-- **[Minimalist Conceptual Illustrations](minimalist-conceptual-illustrations.md)** - Hand-drawn sketch aesthetic with infographic elements for conveying complex ideas through visual metaphors
+### Problem-Solving
+- **[Root Cause Analysis](problem-solving/root-cause-analysis.md)** - Identify fundamental causes of problems
 
 ## Template Structure
 
