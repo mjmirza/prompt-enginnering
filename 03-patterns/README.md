@@ -48,6 +48,16 @@ This directory contains reusable prompt templates and structures for common use 
 - Teaching and tutoring
 - Brainstorming sessions
 
+### Visual Generation Patterns
+- Minimalist conceptual illustrations (see `minimalist-conceptual-illustrations.md`)
+- Infographic designs
+- Diagram generation
+- Style-specific image prompts
+
+## Available Templates
+
+- **[Minimalist Conceptual Illustrations](minimalist-conceptual-illustrations.md)** - Hand-drawn sketch aesthetic with infographic elements for conveying complex ideas through visual metaphors
+
 ## Template Structure
 
 Each pattern template includes:
