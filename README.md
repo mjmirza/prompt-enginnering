@@ -1,5 +1,7 @@
 # Prompt Engineering - Personal Knowledge Base
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 A comprehensive repository documenting prompt engineering techniques, patterns, and best practices based on personal experience and continuous learning.
 
 ## Overview
